@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img alt="Broom logo" src=https://rbcgithub.fg.rbc.com/PCC0/automation/blob/master/broom/logo/logo.png width="200px" height="200px" />
+  <img alt="Broom logo" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fbroom-logo-house-shape-cleanupvector_12654988.html&psig=AOvVaw0VRdGEBt1XxEftJe2LTWS7&ust=1709080170346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC5kOTKyoQDFQAAAAAdAAAAABAE width="200px" height="200px" />
 
 </div>
 
@@ -66,6 +66,15 @@ Additional checks to be onboarded per team request and feedback.
 ## Metrics
 - **Manual Hours Saved/Year: ~ 4000**. Say an average employee earns $40/H, that means $160,000 worth of work is saved by Broom per year.
 - **Ticket First Response Time: 99.5%** decrease in the average time it takes to respond starting from ticket creation (< 10 seconds, was days).
-- **Ticket completion Time: 98.9%** decrease in the time it takes to complete a ticket starting from ticket creation (< 10 seconds, was days).
-- Teams reported their tickets took an average of 100+ clicks to various platforms to process and complete a single ticket. Broom has brought this down to 0.
-- Broom has received **2023 Q3, Q4** as well as **2024 Q1** RBC Performance award nominations.
+- **Ticket Completion Time: 98.9%** decrease in the time it takes to complete a ticket starting from ticket creation (< 10 seconds, was days).
+- **Steps to Completion:** Teams reported their tickets took an average of 100+ clicks to various platforms to process and complete a single ticket. Broom has brought this down to 0.
+- Broom has received **2023 Q4** as well as **2024 Q1** RBC Performance Award nominations.
+
+## Key Contributions
+- Increaded ticket processing capacity
+- Saved manual efforts
+- Decreased wait times
+- Improved SLAs across the board
+- Improved customer satisfaction
+- Reduced human error to 0
+- Increased time to market
