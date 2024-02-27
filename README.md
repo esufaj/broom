@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img alt="Broom logo" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fbroom-logo-house-shape-cleanupvector_12654988.html&psig=AOvVaw0VRdGEBt1XxEftJe2LTWS7&ust=1709080170346000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC5kOTKyoQDFQAAAAAdAAAAABAE width="200px" height="200px" />
+  <img alt="Broom logo" src=https://pngtree.com/freepng/broom-logo-house-shape-cleanup-vector_12654988.html width="200px" height="200px" />
 
 </div>
 
