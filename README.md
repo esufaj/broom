@@ -62,3 +62,9 @@ There are a number of verification checks that can be configured and customized 
 - Rule IDs
 
 Additional checks to be onboarded per team request and feedback.
+
+## Metrics
+- *Manual Hours Saved/Year: ~ 4000*. Say an average employee earns $40/H, that means $160,000 worth of work is saved by Broom.
+- *Ticket First Response Time: 99.5%* decrease in the average time it takes to respond starting from ticket creation date.
+- *Ticket completion Time: 98.9%* decrease in the time it takes to complete a ticket starting from ticket creation date.
+- Broom has received *2023 Q3, Q4* as well as *2024 Q1* RBC Performance award nominations.
