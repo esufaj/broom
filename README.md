@@ -8,7 +8,7 @@
 Broom is an RBC internal Ticketing and Exemption Management System designed to support teams in streamlining their manual efforts by automating their ticket processing from end to end.
 
 ## Where Broom is Deployed
-Two teams across RBC's Global Cyber Security (GCS) have currently been onboarded to Broom, where four separate Jira projects have been fully automated by the product. Below is a summary of the team that was onboarded and the Jira projects that were fully automated by Broom:
+Two teams across RBC's Global Cyber Security (GCS) have currently been onboarded to Broom, where four separate Jira projects have been fully automated by the service. Below is a summary of the teams that were onboarded and the Jira projects that were fully automated by Broom:
 - Cloud Security Scanning: Cloud tickets
 - Vulnerability Management Group: Cloud | TSS OS and IIS | Server Vulnerabilities tickets
 
