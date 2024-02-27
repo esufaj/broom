@@ -32,11 +32,11 @@ Additional features to be onboarded per team request and feedback.
 
 ## Verification Checks
 There are a number of verification checks that can be configured and customized on Broom for your Jira project based on how you want tickets to be processed, what actions Broom should take and any considerations that it should consider during processing. Currently, there are 24 unique verifications. Some of these checks include:
-###Jira
+### Jira
 - Jira ticket Data
 - Jira Ticket Structure
 - SQL DB Data
-###Aqua Security:
+### Aqua Security:
 - Docker Image Names
 - VMs
 - Repositories/Branches
@@ -47,7 +47,7 @@ There are a number of verification checks that can be configured and customized 
 - Super User
 - High or Critical CVEs
 - Expiry Due Dates
-###SCR Portal [internal tool]
+### SCR Portal [internal tool]
 - Platform Names
 - Expiry Due Dates
 - Comments
