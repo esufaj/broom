@@ -7,7 +7,7 @@
 # Broom
 
 ## Description:
-Broom is an RBC internal ticketing and exemption management system designed and created by me.
+Broom is an RBC internal Ticketing and Exemption Management System designed to support teams in streamlining their manual efforts by automating their ticket processing from end-to-end.
 
 
 ## Where Broom is deployed:
