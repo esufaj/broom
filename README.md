@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img alt="Broom logo" src=https://img.freepik.com/premium-vector/broom-logo_609277-1946.jpg?w=740 width="200px" height="200px" />
+  <img alt="Broom logo" src="https://img.freepik.com/premium-vector/broom-logo_609277-1946.jpg?w=740" width="200px" height="200px" />
 
 </div>
 
