@@ -78,7 +78,7 @@ Additional checks to be onboarded per team request and feedback.
 - **Ticket First Response Time**: 99.5% decrease in the average time it takes to respond starting from ticket creation (less than 10 seconds, previously days).
 - **Ticket Completion Time**: 98.9% decrease in the time it takes to complete a ticket starting from ticket creation (less than 10 seconds, previously days).
 - **Steps to Completion**: Teams reported their tickets took an average of 100+ clicks to various platforms to process and complete a single ticket. Broom has brought this down to 0.
-- Broom has received **2023 Q4** as well as **2024 Q1** RBC Performance Award nominations.
+- Broom has received **2023 Q4** as well as **2024 Q1** RBC Performance Award nominations. Won the RBC individual and leadership performance awards in Q1 and Q4 2024 respectively.
 
 ## Key Contributions
 - Increased ticket processing capacity
